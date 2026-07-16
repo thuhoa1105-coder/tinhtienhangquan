@@ -137,7 +137,7 @@ elif role == "Quản trị viên (Admin)":
     # Thiết lập mật khẩu bảo mật đơn giản
     password = st.text_input("Nhập mật khẩu Admin:", type="password")
     
-    if password == "admin123":  # Mật khẩu mặc định là: admin123
+    if password == "2005":  # Mật khẩu mặc định là: admin123
         st.success("Đăng nhập thành công với quyền Admin!")
         st.markdown("---")
         
