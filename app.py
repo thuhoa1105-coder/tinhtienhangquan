@@ -14,7 +14,7 @@ menu = {
     },
     "Thức uống": {
         "Coca Cola": 20000, "Trà Đào Cam Sả": 35000, "Cà Phê Sữa": 25000,
-        "Nước Suối": 10000, "Sinh tố Bơ": 45000, "Nước ép cam": 40000,
+        "Nước Suối": 10000, "Sinh tố Bơ": 45000, "Nước ép cam": 40000,"nước ép cà rốt":45000,
         "Mojito chanh dây": 55000, "Bia Heineken": 30000
     }
 }
