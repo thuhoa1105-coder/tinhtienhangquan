@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
 
-st.title("🍽️ Hệ thống Order Nhà Hàng MR. BÌNH - Giảm 5% cho hoá đơn trên 1 triệu")
+st.title("🍽️ Hệ thống Order Nhà Hàng THU HÒA - Giảm 5% cho hoá đơn trên 1 triệu")
 
 # Thực đơn
 menu = {
